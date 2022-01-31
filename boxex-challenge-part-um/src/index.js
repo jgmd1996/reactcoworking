@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DybamicStyle from './DybamicStyle';
+import BoxesPartDois from './BoxesPartDois';
 
-
-//ReactDOM.render(<App />,document.getElementById('root'));
-ReactDOM.render(<DybamicStyle darkMode={false} />,document.getElementById('root'));
+ReactDOM.render(<BoxesPartDois />,document.getElementById('root'));
 
