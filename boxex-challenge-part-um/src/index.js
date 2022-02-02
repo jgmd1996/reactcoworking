@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BoxesPartDois from './BoxesPartDois';
+import Aula32 from './Aula32';
 
-ReactDOM.render(<BoxesPartDois />,document.getElementById('root'));
+ReactDOM.render(<Aula32 />, document.getElementById('root'));
 

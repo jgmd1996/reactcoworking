@@ -11,7 +11,7 @@ export default [
     },
     {
         id: 3,
-        on: true
+        on: false
     },
     {
         id: 4,
